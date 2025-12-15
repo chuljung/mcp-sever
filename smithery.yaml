@@ -1,0 +1,8 @@
+# Smithery 배포 설정
+# 문서: https://smithery.ai/docs/typescript-servers
+
+runtime: "typescript"
+
+# 로컬 서버로 배포하려면 아래 주석 해제
+# target: "local"
+
